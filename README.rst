@@ -27,6 +27,7 @@ Table of Contents
    :backlinks: none
    :local:
 
+
 The "g" key is pressed
 ----------------------
 The following sections explain the physical keyboard actions
